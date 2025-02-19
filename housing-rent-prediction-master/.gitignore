@@ -1,0 +1,8 @@
+__pycache__/
+env/
+outputs.txt
+model_results.txt
+config.json
+preprocessed/
+test.py
+test.ipynb
